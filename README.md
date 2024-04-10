@@ -1,4 +1,3 @@
-# Obsdian Discord Bot!
+# Codespaces_DG8013
 
-This repository uses Codespaces to host Obsdian Discord Bot!
-
+This is just a normal repository used for codespaces
